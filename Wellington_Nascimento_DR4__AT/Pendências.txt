@@ -1,0 +1,24 @@
+
+VenturaHR
+
+
+Concluido (a ser melhorado):
+
+Web consumindo a API Empresa
+Web consumindo a API Usuário
+Login
+Lista de vagas
+página de cadastro de empresa
+página de cadastro de usuário
+
+
+Dificuldades:
+
+Publicar vaga no banco de dados
+Cadastrar usuário no banco de dados
+
+
+Comecei o projeto utilizando o Servlet, mas no decorrer do tempo houve a necessidade de utilizar
+um projeto Spring Boot para fazer a parte Web. Mas tive bastante dificuldade nessa transição. 
+Por algum motivo o projeto não rodou, apresentando um erro no Tomcat. Então decidi continuar com
+o Servlet mas não consegui desenvolver muita coisa, tomando muito tempo tentando resolver os erros.
